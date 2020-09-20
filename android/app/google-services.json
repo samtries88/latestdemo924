@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1011222374429",
+    "firebase_url": "https://workpcjune13.firebaseio.com",
+    "project_id": "workpcjune13",
+    "storage_bucket": "workpcjune13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011222374429:android:f72ce7af76ab78b1d6bef4",
+        "android_client_info": {
+          "package_name": "com.example.demojune13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011222374429-f34dn6elvaqifhe5l8gc3lpt023g9kh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQTHMCoz53JPedyyGq349JlhLlMC4CjDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011222374429-f34dn6elvaqifhe5l8gc3lpt023g9kh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
